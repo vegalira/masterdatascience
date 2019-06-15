@@ -200,17 +200,25 @@ En este caso ninguno decrece, todos tienen variación positiva y vuelven a repet
 
 En este caso la predicción parece ser errónea (o eso espero). Un crecimiento de más del 15% de un año para otro no es lo habitual. Si es que estas predicciones se cumplen, todo parece indicar que los precios van a continuar en ascenso pero, previsiblemente, se tendrán que poner en marcha mecanismos de control que consigan regular el mercado o quizá volvamos a sufrir un brusco descenso de los precios que lo equilibren.
 
-No obstante, es cierto que de nuevo como hemos indicado los distritos donde más crecen son los que tienen los precios más bajos y tienen mayor recorrido.
+No obstante, es cierto que de nuevo como hemos indicado los distritos donde más crecen son los que tienen los precios más bajos y tienen mayor recorrido así que quizá aunque no exacta no sea tan descabellada esa predicción.
 
 
-
-
+![]( https://github.com/vegalira/masterdatascience/blob/master/distritos_2018.png)
 
 
 ### 4.2 ¿Estamos cerca de precios de burbuja inmobiliaria?
 
+Inicalmente las predicciones me parecía demasiado optimistas. Como hemos visto antes todos los distritos menos uno en 2019 crecen en precios.
 
-Inicalmente las predicciones me parecía demasiado optimistas. Todos los   
+Mi impresión inicial, por mi conocimiento del mercado y porque la percepción generalizada es que los precios están demasiado elevados, era que lo óptimo es que las predicciones indicaran un ajuste en los precios. 
+
+Por ello, decidí analizar como se encuentran los precios en comparación con el precio máximo (normalmente 2007-2008) de la serie histórica de precios de vivienda.
+
+En esta imagen podemos ver 
+
+
+
+
 
 
  ### CONCLUSIONES PASO 4: 
