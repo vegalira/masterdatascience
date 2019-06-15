@@ -1,5 +1,6 @@
 # TFM_DataScience
 # Impacto del ciclo inmobiliario en el precio de la vivienda. Distritos de Madrid
+## Lorena Vega Romero
 
 La idea inicial de este proyecto era evaluar el impacto de las variables macroeconómicas en el precio de la vivienda en los distritos de Madrid.
 
