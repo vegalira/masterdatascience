@@ -164,8 +164,7 @@ Imagen3. Imagen de gráfico interactivo
 
 ![](https://github.com/vegalira/masterdatascience/blob/master/distrito_1_3.png)
 
-He unificado las predicciones de todos los distritos para el 2019 y 2020 en el excel ``` Distritos_madrid_Tableau ``` ubicado en carpeta 
-``` 00_Data ``` junto con las medias de los unitarios a nivel distrito para el 2018 para poder visualizarlo en Tableau.
+He unificado las predicciones de todos los distritos para el 2019 y 2020 en el excel ``` Distritos_madrid_Tableau.xlsx ``` ubicado en carpeta ``` 00_Data ``` junto con las medias de los unitarios a nivel distrito para el 2018 para poder visualizarlo en Tableau.
 Además se han incluido en dicho archivo, el valor máximo alcanzado para cada distrito (indicando el año) y la variación del valor actual o predecido con respecto al máximo.
 
 Lo que queremos es comprobar si efectivamente estamos a niveles de máximo (burbuja inmobiliaria) o, si por el contrario, estamos alejados aún.
@@ -173,11 +172,15 @@ Lo que queremos es comprobar si efectivamente estamos a niveles de máximo (burb
 
 ## Visualización en Tableau
 
+Para la visualización en Tableau necesitaremos los siguientes ficheros:
 
+``` Distritos_madrid_Tableau.xlsx ```  y ``` Evolucion_precios_distritos.xlsx ``` ubicado en carpeta ``` 00_Data ```
 
 De la observación de los datos analizamos lo siguiente:
 
 ### 4.1 ¿Qué distritos verán incrementados sus precios?
+
+
 
 ### 4.2 ¿Estamos cerca de precios de burbuja inmobiliaria?
 
