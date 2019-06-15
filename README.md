@@ -214,11 +214,15 @@ Mi impresión inicial, por mi conocimiento del mercado y porque la percepción g
 
 Por ello, decidí analizar como se encuentran los precios en comparación con el precio máximo (normalmente 2007-2008) de la serie histórica de precios de vivienda.
 
-En esta imagen podemos ver 
+En esta imagen podemos ver que la mayor parte de los distritos se encuentra por debajo de los valores máximos alcanzados. Gran parte de ellos muy alejados aún de los precios de 2007-2008 (-24/-35%). 
+
+Precisamente los distritos más populares y céntricos están por debajo pero a niveles cercanos y, muy destacable y evidente por otro lado en los distritos de Chambería y Salamanca ya sobrepasan los máximos históricos.
 
 
-![]( https://github.com/vegalira/masterdatascience/blob/master/2019-Max.png)
+![]( https://github.com/vegalira/masterdatascience/blob/master/2019-Max%20.png)
 
+
+Si vemos como evolucionaría en 2020
 
 
 
