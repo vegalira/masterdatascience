@@ -148,19 +148,19 @@ He agruado la información a nivel mensual para facilitar la predicción y para 
 
 A modo de ejemplo podemos ver una visualización de la predicción arrojada para el distrito 01_Centro:
 
-###Imagen1. Representación de los datos
+### Imagen1. Representación de los datos
 
 ![](https://github.com/vegalira/masterdatascience/blob/master/distrito_1_1.png)
 
 Podemos observar que hay mucha dispersión en los mismos y eso entiendo va a dificultar la previsión.
 
-###Imagen2. Representación visual de la predicción.
+### Imagen2. Representación visual de la predicción.
 
 ![](https://github.com/vegalira/masterdatascience/blob/master/distrito_1_2.png)
 
 Aunque observamos que hay mucha dispersión con respecto a la predicción, si analizamos la línea de predicción en 2019, 2020 y 2021 vemos que se ajusta bastante bien y que sigue en la misma proporción.
 
-###Imagen3. Imagen de gráfico interactivo 
+### Imagen3. Imagen de gráfico interactivo 
 
 ![](https://github.com/vegalira/masterdatascience/blob/master/distrito_1_3.png)
 
