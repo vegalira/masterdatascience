@@ -192,6 +192,18 @@ Podríamos pensar que la predicción es errónea, y en cierto modo lo es, en los
 
 El mercado se encuentra saturado en los distritos más céntricos y más caros tradicionalmente. Esta está provocando un fenómeno de deslocalización hacia distritos e incluso municipios colindantes, provocando un aumento exponencial en los precios de vivienda en estas localizaciones.
 
+Si hacemos el mismo análisis entre 2020-2019
+
+![]( https://github.com/vegalira/masterdatascience/blob/master/Var_distritos%202020.png)
+
+En este caso ninguno decrece, todos tienen variación positiva y vuelven a repetir en el ranking Villaverde, Puente de Vallecas, Carabanchel y Vicálvaro.
+
+En este caso la predicción parece ser errónea (o eso espero). Un crecimiento de más del 15% de un año para otro no es lo habitual. Si es que estas predicciones se cumplen, todo parece indicar que los precios van a continuar en ascenso pero, previsiblemente, se tendrán que poner en marcha mecanismos de control que consigan regular el mercado o quizá volvamos a sufrir un brusco descenso de los precios que lo equilibren.
+
+No obstante, es cierto que de nuevo como hemos indicado los distritos donde más crecen son los que tienen los precios más bajos y tienen mayor recorrido.
+
+
+
 
 
 
