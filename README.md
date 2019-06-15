@@ -178,7 +178,7 @@ Para la visualización en Tableau necesitaremos los siguientes ficheros:
 
 De la observación de los datos analizamos lo siguiente:
 
-### 4.1 ¿Qué distritos verán incrementados sus precios?
+## ¿Qué distritos verán incrementados sus precios?
 
 Analizando la diferencia entre el valor arrojado en el 2018 para cada distrito y la predicción para el 2019 vemos lo siguiente:
 
@@ -206,7 +206,7 @@ No obstante, es cierto que de nuevo como hemos indicado los distritos donde más
 ![]( https://github.com/vegalira/masterdatascience/blob/master/distritos_2018.png)
 
 
-### 4.2 ¿Estamos cerca de precios de burbuja inmobiliaria?
+## ¿Estamos cerca de precios de burbuja inmobiliaria?
 
 Inicalmente las predicciones me parecía demasiado optimistas. Como hemos visto antes todos los distritos menos uno en 2019 crecen en precios.
 
@@ -216,18 +216,23 @@ Por ello, decidí analizar como se encuentran los precios en comparación con el
 
 En esta imagen podemos ver que la mayor parte de los distritos se encuentra por debajo de los valores máximos alcanzados. Gran parte de ellos muy alejados aún de los precios de 2007-2008 (-24/-35%). 
 
-Precisamente los distritos más populares y céntricos están por debajo pero a niveles cercanos y, muy destacable y evidente por otro lado en los distritos de Chambería y Salamanca ya sobrepasan los máximos históricos.
+Precisamente los distritos más populares y céntricos están por debajo pero a niveles cercanos y, muy destacable y evidente por otro lado en los distritos de Chamberí y Salamanca que ya sobrepasan los máximos históricos.
 
 
 ![]( https://github.com/vegalira/masterdatascience/blob/master/2019-Max%20.png)
 
 
-Si vemos como evolucionaría en 2020
+Si vemos como evolucionaría en 2020 los distritos que estaban próximos a los niveles máximos, ya los superan. Es el caso de Moncloa y Centro. Se mantienen Chamberí y Salamanca y, en general, hay una tendencia alcista como habíamos mencionado.
+
+![]( https://github.com/vegalira/masterdatascience/blob/master/2020-Max.png)
+
+
+Esos distritos que tenían unos crecimientos exponenciales en las predicciones de 2019 y 2020 son los que se encuentran aun muy alejados de valores de 2007-2008.
 
 
 
 
- ### CONCLUSIONES PASO 4: 
+ ## CONCLUSIONES
   
   * 
 
