@@ -229,7 +229,7 @@ Si vemos como evolucionaría en 2020 los distritos que estaban próximos a los n
 
 Esos distritos que tenían unos crecimientos exponenciales en las predicciones de 2019 y 2020 son los que se encuentran aun muy alejados de valores de 2007-2008.
 
-
+![]( https://github.com/vegalira/masterdatascience/blob/master/Dashboard%201.png)
 
 
  ## CONCLUSIONES
