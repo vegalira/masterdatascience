@@ -148,19 +148,19 @@ He agruado la información a nivel mensual para facilitar la predicción y para 
 
 A modo de ejemplo podemos ver una visualización de la predicción arrojada para el distrito 01_Centro:
 
-Imagen1. Representación de los datos
+###Imagen1. Representación de los datos
 
 ![](https://github.com/vegalira/masterdatascience/blob/master/distrito_1_1.png)
 
 Podemos observar que hay mucha dispersión en los mismos y eso entiendo va a dificultar la previsión.
 
-Imagen2. Representación visual de la predicción.
+###Imagen2. Representación visual de la predicción.
 
 ![](https://github.com/vegalira/masterdatascience/blob/master/distrito_1_2.png)
 
 Aunque observamos que hay mucha dispersión con respecto a la predicción, si analizamos la línea de predicción en 2019, 2020 y 2021 vemos que se ajusta bastante bien y que sigue en la misma proporción.
 
-Imagen3. Imagen de gráfico interactivo 
+###Imagen3. Imagen de gráfico interactivo 
 
 ![](https://github.com/vegalira/masterdatascience/blob/master/distrito_1_3.png)
 
@@ -234,7 +234,15 @@ Esos distritos que tenían unos crecimientos exponenciales en las predicciones d
 
  ## CONCLUSIONES
   
-  * 
+ Las predicciones, aunque no exactas por supuesto, reflejan el comportamiento actual del mercado inmobiliario.
+ 
+Tanto la situación actual como las predicciones objeto de este estudio nos indican que de forma general no estamos en niveles de 2007-2008. No obstante, tal y como refleja este análisis, en determinados distritos de sí saltan las alarmas. Hablamos de los distritos más céntricos y más demandados.
+ 
+Tal y como hemos observado el aumento de los precios se desplaza hacia distritos menos céntricos y menos populares que pueden absorber la demanda creciente tanto en volumen como en precios.
+
+Tendremos que esperar para ver cómo se comporta el mercado finalmente y si se adoptan medidas para impedir este signo alcista de precios que, al margen de otras consideraciones, ya está a niveles preocupantes en cuanto a esfuerzo teórico de las familias.
+ 
+ 
 
 
 
