@@ -180,6 +180,19 @@ De la observación de los datos analizamos lo siguiente:
 
 ### 4.1 ¿Qué distritos verán incrementados sus precios?
 
+Analizando la diferencia entre el valor arrojado en el 2018 para cada distrito y la predicción para el 2019 vemos lo siguiente:
+
+![]( https://github.com/vegalira/masterdatascience/blob/master/Var_distritos.png)
+
+Como vemos, todos aumentan en un grado medio en la mayor parte de los distritos y en grado máximo en distritos como Villaverde, Puente de Vallecas, Carabanchel y Vicálvaro.
+
+Sólo ve su precio disminuido el distrito de Barajas.
+
+Podríamos pensar que la predicción es errónea, y en cierto modo lo es, en los distritos donde incrementa tanto. Pero, aunque no explica un crecimiento tan exponencial, y la realidad del mercado no es tal, es cierto que sí refleja lo que está sucediendo actualmente.
+
+El mercado se encuentra saturado en los distritos más céntricos y más caros tradicionalmente. Esta está provocando un fenómeno de deslocalización hacia distritos e incluso municipios colindantes, provocando un aumento exponencial en los precios de vivienda en estas localizaciones.
+
+
 
 
 ### 4.2 ¿Estamos cerca de precios de burbuja inmobiliaria?
