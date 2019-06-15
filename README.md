@@ -250,16 +250,16 @@ Tendremos que esperar para ver cómo se comporta el mercado finalmente y si se a
 
 
 
-
-
-
-
-
-
-
 ## BIBLIOGRAFÍA
 
 PROPHET: https://facebook.github.io/prophet/
+R: http://rpubs.com/
+STACKOVERFLOW: https://es.stackoverflow.com/
+R y Python: https://www.datascience.com/
+.
+.
+.
+
 
 
 
