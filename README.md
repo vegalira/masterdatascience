@@ -217,6 +217,8 @@ Por ello, decidí analizar como se encuentran los precios en comparación con el
 En esta imagen podemos ver 
 
 
+![]( https://github.com/vegalira/masterdatascience/blob/master/2019-Max.png)
+
 
 
 
